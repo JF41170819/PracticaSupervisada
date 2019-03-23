@@ -1,0 +1,12 @@
+// Agrega la plataforma primero
+
+ionic cordova platform add android
+
+
+//construimos la app para la platadorma que agregamos
+
+ionic cordova build android
+
+//corremos la app en el movil
+
+ionic cordova run android
